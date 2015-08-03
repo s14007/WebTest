@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>コンピュータとインターネットの専門学校 ITカレッジ沖縄 - IT College OKINAWA</title>
+		<description>国際資格をベースにしたグローバルな人材を育成する沖縄県にあるコンピュータの専門学校ITカレッジ沖縄</description>
+		<link>http://www.it-college.ac.jp/14-query.html</link>
+		<lastBuildDate>Mon, 27 Jul 2015 13:40:00 +0900</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.it-college.ac.jp/14-query.feed?type=rss"/>
+		<language>ja-jp</language>
+		<item>
+			<title>資料請求</title>
+			<link>http://www.it-college.ac.jp/shiryou-etc.html</link>
+			<guid isPermaLink="true">http://www.it-college.ac.jp/shiryou-etc.html</guid>
+			<description><![CDATA[<div class="feed-description">{chronoforms}document-request{/chronoforms}
+</div>]]></description>
+			<author>nakasone@std.it-college.ac.jp (おにぎり)</author>
+			<category>資料請求</category>
+			<pubDate>Thu, 16 Aug 2012 11:07:51 +0900</pubDate>
+		</item>
+		<item>
+			<title>就職のとりくみ</title>
+			<link>http://www.it-college.ac.jp/14-query/12-query-torikomi.html</link>
+			<guid isPermaLink="true">http://www.it-college.ac.jp/14-query/12-query-torikomi.html</guid>
+			<description><![CDATA[<div class="feed-description"><h1>就職のとりくみ</h1></div>]]></description>
+			<category>資料請求</category>
+			<pubDate>Thu, 16 Aug 2012 01:19:27 +0900</pubDate>
+		</item>
+	</channel>
+</rss>

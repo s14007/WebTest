@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>コンピュータとインターネットの専門学校 ITカレッジ沖縄 - IT College OKINAWA</title>
+		<description>国際資格をベースにしたグローバルな人材を育成する沖縄県にあるコンピュータの専門学校ITカレッジ沖縄</description>
+		<link>http://www.it-college.ac.jp/component/content/?view=featured</link>
+		<lastBuildDate>Mon, 27 Jul 2015 13:29:13 +0900</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.it-college.ac.jp/?format=feed&amp;type=rss"/>
+		<language>ja-jp</language>
+		<item>
+			<title>2016年度募集学科</title>
+			<link>http://www.it-college.ac.jp/27-info/232-h27top.html</link>
+			<guid isPermaLink="true">http://www.it-college.ac.jp/27-info/232-h27top.html</guid>
+			<description><![CDATA[<div class="feed-description"><h1 style="text-align: left;">
+	2016年度募集学科</h1>
+<table style="border: none;width:710px;">
+	<tbody>
+		<tr>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/net2.html"><img alt="ネットワークセキュリティ科" src="http://www.it-college.ac.jp/images/stories/topics/nets.png" /></a></td>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/itsystem-2.html"><img alt="ITスペシャリスト科" src="http://www.it-college.ac.jp/images/stories/topics/itsys.png" /></a></td>
+		</tr>
+		<tr>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/creator.html"><img alt="クリエイター科" src="http://www.it-college.ac.jp/images/stories/topics/cret.png" /></a></td>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/night.html"><img alt="夜間ITエンジニア科" src="http://www.it-college.ac.jp/images/stories/topics/iteng.png" /></a></td>
+		</tr>
+		<tr>
+		</tr>
+		<tr>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/japan.html"><img alt="日本語ITコース" src="http://www.it-college.ac.jp/images/stories/topics/jpit.png" /></a></td>
+			<td style="border: none;padding:5px">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/nyuushi-etc/21-gakuhi.html"><img alt="奨学金制度" height="128" src="http://www.it-college.ac.jp/images/banners/button_scholarship.gif" width="290" /></a></td>
+			<td style="border: none;padding:5px">
+				<a href="http://www.it-college.ac.jp/index.php?option=com_content&amp;view=category&amp;id=14"><img alt="資料請求" height="128" src="http://www.it-college.ac.jp/images/banners/button_docReq.gif" width="290" /></a></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<script src="http://april.it-college.ac.jp/ext/af.js"></script></div>]]></description>
+			<author>okuto@std.it-college.ac.jp (おくとるい)</author>
+			<category>注目</category>
+			<category>お知らせ</category>
+			<pubDate>Wed, 21 May 2014 06:46:00 +0900</pubDate>
+		</item>
+	</channel>
+</rss>

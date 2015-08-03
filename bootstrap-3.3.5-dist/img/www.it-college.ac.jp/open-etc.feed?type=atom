@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ja-jp">
+	<title type="text">コンピュータとインターネットの専門学校 ITカレッジ沖縄 - オープンキャンパス</title>
+	<subtitle type="text">国際資格をベースにしたグローバルな人材を育成する沖縄県にあるコンピュータの専門学校ITカレッジ沖縄</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp"/>
+	<id>http://www.it-college.ac.jp/open-etc.feed</id>
+	<updated>2015-07-27T13:34:38+09:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.it-college.ac.jp/open-etc.feed?type=atom"/>
+	<entry>
+		<title>2015年8月1日オープンキャンパス案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/238-oc-20150801.html"/>
+		<published>2015-07-22T15:00:00+09:00</published>
+		<updated>2015-07-22T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/238-oc-20150801.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	8月1日のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150723oc_0801.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年8月 夏のオープンキャンパス&lt;/h2&gt;
+&lt;h2&gt;
+	08/01（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;8月の内容は&lt;br /&gt;
+	「選べる体験授業（プログラミング体験、Web体験」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	体験授業の内容は変更になる場合もあります。&lt;br /&gt;
+	あらかじめご理解下さい。&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・クリエイティブ系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー、CG、VFX、PA、DTM、&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	8月1日のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150723oc_0801.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年8月 夏のオープンキャンパス&lt;/h2&gt;
+&lt;h2&gt;
+	08/01（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;8月の内容は&lt;br /&gt;
+	「選べる体験授業（プログラミング体験、Web体験」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	体験授業の内容は変更になる場合もあります。&lt;br /&gt;
+	あらかじめご理解下さい。&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・クリエイティブ系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー、CG、VFX、PA、DTM、&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2015夏休み授業見学のご案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/237-summer-view2015.html"/>
+		<published>2015-07-21T15:00:00+09:00</published>
+		<updated>2015-07-21T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/237-summer-view2015.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;section&gt;
+	&lt;h1&gt;
+		7月〜8月 夏休み授業見学のご案内&lt;/h1&gt;
+	&lt;p style=&quot;text-align: center;&quot;&gt;
+		&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150717summerK.png&quot; /&gt;&lt;/p&gt;
+	&lt;h2&gt;
+		アイカレでは9月が夏休みの為、7月~8月は授業を行ってます。&lt;br /&gt;
+		皆さんの夏休みの期間に &amp;quot;進路選びの一つ&amp;quot; として、実際の授業を見学してみませんか？&lt;br /&gt;
+		授業見学は月〜金です。もちろん、学校説明会も随時行っております。&lt;br /&gt;
+		&lt;br /&gt;
+		期間 : 7月21日(火) ~ 8月14日(金)まで&lt;/h2&gt;
+	&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+		おすすめ講義はこちら&lt;/p&gt;
+&lt;/section&gt;
+&lt;table border=&quot;1&quot; height=&quot;203&quot; style=&quot;line-height: 1.5em; font-size: 14pt; width: 680px;&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;th rowspan=&quot;2&quot; scope=&quot;row&quot; style=&quot;background-color: #09F;&quot; valign=&quot;middle&quot;&gt;
+				&lt;a href=&quot;http://www.it-college.ac.jp/itsystem-2.html&quot;&gt;ITスペシャリスト&lt;/a&gt;系&lt;br /&gt;
+				&lt;a href=&quot;http://www.it-college.ac.jp/net2.html&quot;&gt;ネットワーク&lt;/a&gt;系&lt;/th&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;プロジェクト管理&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;火曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;Network 構築実習&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;火曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th rowspan=&quot;3&quot; scope=&quot;row&quot; style=&quot;background-color: #Fc0;&quot; valign=&quot;middle&quot;&gt;
+				&lt;a href=&quot;http://www.it-college.ac.jp/creator.html&quot;&gt;クリエイター系&lt;/a&gt;&lt;/th&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;Webデザイン&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;火曜日&amp;amp;水曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;Protools（統合DTM）&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;水曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;3D映像編集&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;火曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style=&quot;font-size:14pt;&quot;&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;授業見学への申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;section&gt;
+	&lt;h1&gt;
+		7月〜8月 夏休み授業見学のご案内&lt;/h1&gt;
+	&lt;p style=&quot;text-align: center;&quot;&gt;
+		&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150717summerK.png&quot; /&gt;&lt;/p&gt;
+	&lt;h2&gt;
+		アイカレでは9月が夏休みの為、7月~8月は授業を行ってます。&lt;br /&gt;
+		皆さんの夏休みの期間に &amp;quot;進路選びの一つ&amp;quot; として、実際の授業を見学してみませんか？&lt;br /&gt;
+		授業見学は月〜金です。もちろん、学校説明会も随時行っております。&lt;br /&gt;
+		&lt;br /&gt;
+		期間 : 7月21日(火) ~ 8月14日(金)まで&lt;/h2&gt;
+	&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+		おすすめ講義はこちら&lt;/p&gt;
+&lt;/section&gt;
+&lt;table border=&quot;1&quot; height=&quot;203&quot; style=&quot;line-height: 1.5em; font-size: 14pt; width: 680px;&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;th rowspan=&quot;2&quot; scope=&quot;row&quot; style=&quot;background-color: #09F;&quot; valign=&quot;middle&quot;&gt;
+				&lt;a href=&quot;http://www.it-college.ac.jp/itsystem-2.html&quot;&gt;ITスペシャリスト&lt;/a&gt;系&lt;br /&gt;
+				&lt;a href=&quot;http://www.it-college.ac.jp/net2.html&quot;&gt;ネットワーク&lt;/a&gt;系&lt;/th&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;プロジェクト管理&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;火曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;Network 構築実習&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#0000cd;&quot;&gt;火曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th rowspan=&quot;3&quot; scope=&quot;row&quot; style=&quot;background-color: #Fc0;&quot; valign=&quot;middle&quot;&gt;
+				&lt;a href=&quot;http://www.it-college.ac.jp/creator.html&quot;&gt;クリエイター系&lt;/a&gt;&lt;/th&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;Webデザイン&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;火曜日&amp;amp;水曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;Protools（統合DTM）&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;水曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;3D映像編集&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;span style=&quot;color:#ff0000;&quot;&gt;火曜日〜木曜日&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style=&quot;font-size:14pt;&quot;&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;授業見学への申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2015年のオープンキャンパス案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/194-oc150601schedule.html"/>
+		<published>2015-05-31T15:00:00+09:00</published>
+		<updated>2015-05-31T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/194-oc150601schedule.html</id>
+		<author>
+			<name>IT-College</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div class=&quot;kiziBox&quot;&gt;
+	&lt;h2&gt;
+		2015年度 オープンキャンパス スケジュール&lt;/h2&gt;
+	&lt;hr /&gt;
+	&lt;p&gt;
+		&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150601oc_schedule.png&quot; /&gt;&lt;/p&gt;
+	&lt;p&gt;
+		&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		2016年は、毎週土曜日開催。いずれも14:00 ～ 16:00&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		もちろん、無料送迎いたします。前日までにお電話下さい。&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		お電話の場合は &lt;strong&gt;&lt;span style=&quot;color:#ff0000;&quot;&gt;098-833-6715&lt;/span&gt;&lt;/strong&gt; まで 宜しくお願いします。&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;gt;&amp;gt;&amp;gt;&amp;nbsp;&lt;a href=&quot;http://www.it-college.ac.jp/open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みフォーム&lt;/a&gt;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div class=&quot;kiziBox&quot;&gt;
+	&lt;h2&gt;
+		2015年度 オープンキャンパス スケジュール&lt;/h2&gt;
+	&lt;hr /&gt;
+	&lt;p&gt;
+		&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150601oc_schedule.png&quot; /&gt;&lt;/p&gt;
+	&lt;p&gt;
+		&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		2016年は、毎週土曜日開催。いずれも14:00 ～ 16:00&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		もちろん、無料送迎いたします。前日までにお電話下さい。&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		お電話の場合は &lt;strong&gt;&lt;span style=&quot;color:#ff0000;&quot;&gt;098-833-6715&lt;/span&gt;&lt;/strong&gt; まで 宜しくお願いします。&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;gt;&amp;gt;&amp;gt;&amp;nbsp;&lt;a href=&quot;http://www.it-college.ac.jp/open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みフォーム&lt;/a&gt;&lt;/p&gt;
+	&lt;p style=&quot;font-size:12pt&quot;&gt;
+		&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2015年6月20日オープンキャンパス案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/234-oc-20150620.html"/>
+		<published>2015-05-31T15:00:00+09:00</published>
+		<updated>2015-05-31T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/234-oc-20150620.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	6月のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150601OC_620.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年 6月 オープンキャンパス&lt;/h2&gt;
+&lt;h2&gt;
+	6/20（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;6月の内容は「選べる体験授業（Androidアプリ作成体験、サウンド制作体験」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	体験授業の内容は変更になる場合もあります。あらかじめご理解下さい&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・クリエイティブ系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー、CG、VFX、PA、DTM、&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	6月のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150601OC_620.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年 6月 オープンキャンパス&lt;/h2&gt;
+&lt;h2&gt;
+	6/20（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;6月の内容は「選べる体験授業（Androidアプリ作成体験、サウンド制作体験」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	体験授業の内容は変更になる場合もあります。あらかじめご理解下さい&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・クリエイティブ系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー、CG、VFX、PA、DTM、&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2015年5月30日オープンキャンパス案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/233-oc-2015030.html"/>
+		<published>2015-05-17T15:00:00+09:00</published>
+		<updated>2015-05-17T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/233-oc-2015030.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	5月のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150518oc_530.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年 5月 春のオープンキャンパス&lt;/h2&gt;
+&lt;h2&gt;
+	5/30（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;5月の内容は「選べる体験授業（ハッカー体験、Web体験」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	体験授業の内容は変更になる場合もあります。あらかじめご理解下さい&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・クリエイティブ系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー、CG、VFX、PA、DTM、&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	5月のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150518oc_530.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年 5月 春のオープンキャンパス&lt;/h2&gt;
+&lt;h2&gt;
+	5/30（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;5月の内容は「選べる体験授業（ハッカー体験、Web体験」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	体験授業の内容は変更になる場合もあります。あらかじめご理解下さい&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・クリエイティブ系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー、CG、VFX、PA、DTM、&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2015/4月の合同オープンキャンパス案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/230-oc-20150425.html"/>
+		<published>2015-04-15T15:00:00+09:00</published>
+		<updated>2015-04-15T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/230-oc-20150425.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	4月 ITカレッジ沖縄・沖縄ビジネス外語学院&lt;br /&gt;
+	合同オープンキャンパス&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150417oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年ここからはじまる、進路えらび!!　&lt;/h2&gt;
+&lt;h2&gt;
+	アイカレ・外語の4月春の合同オープンキャンパス&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ、&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt;&quot;&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;
+	4/25 （土）：10:00～12:30 （無料送迎します!!）&lt;/h2&gt;
+&lt;h2&gt;
+	合同オープンキャンパス開催場所：&lt;br /&gt;
+	専門学校沖縄ビジネス外語学院&amp;nbsp;&lt;a href=&quot;http://www.gaigo.biz/map.html&quot; target=&quot;_blank&quot;&gt;地図&lt;/a&gt;&amp;nbsp; &lt;span style=&quot;font-size: 12px;&quot;&gt;※別ウィンドウで開きます&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p&gt;
+	【語学系関連キーワード】 &amp;nbsp;客室乗務員、グランドスタッフ、ブライダル、ホテル、語学、通訳翻訳、旅行会社、英文事務、基地従業員、銀行員、添乗員&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	4月 ITカレッジ沖縄・沖縄ビジネス外語学院&lt;br /&gt;
+	合同オープンキャンパス&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150417oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2015年ここからはじまる、進路えらび!!　&lt;/h2&gt;
+&lt;h2&gt;
+	アイカレ・外語の4月春の合同オープンキャンパス&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ、&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt;&quot;&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;
+	4/25 （土）：10:00～12:30 （無料送迎します!!）&lt;/h2&gt;
+&lt;h2&gt;
+	合同オープンキャンパス開催場所：&lt;br /&gt;
+	専門学校沖縄ビジネス外語学院&amp;nbsp;&lt;a href=&quot;http://www.gaigo.biz/map.html&quot; target=&quot;_blank&quot;&gt;地図&lt;/a&gt;&amp;nbsp; &lt;span style=&quot;font-size: 12px;&quot;&gt;※別ウィンドウで開きます&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p&gt;
+	【語学系関連キーワード】 &amp;nbsp;客室乗務員、グランドスタッフ、ブライダル、ホテル、語学、通訳翻訳、旅行会社、英文事務、基地従業員、銀行員、添乗員&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>２年生・１年生対象 合同オープンキャンパス案内</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/223-oc-20150221.html"/>
+		<published>2015-01-30T15:00:00+09:00</published>
+		<updated>2015-01-30T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/223-oc-20150221.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	２年生・１年生対象 合同オープンキャンパス&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150130_oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	２年生、１年生むけ&lt;br /&gt;
+	2015年 アイカレ・外語の合同オープンキャンパス。&lt;/h2&gt;
+&lt;h2&gt;
+	2/21（土）：13:30～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;２年生、１年生向けの初めてのオープンキャンパスとして&lt;br /&gt;
+	開催します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;進路選びのお手伝いを専門学校ITカレッジ、沖縄ビジネス外語学院の&lt;br /&gt;
+	合同オープンキャンパスとしてさせてもらいます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;ぜひ、遊びにきてください。&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt;&quot;&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p&gt;
+	【語学系関連キーワード】 &amp;nbsp;客室乗務員、グランドスタッフ、ブライダル、ホテル、語学、通訳翻訳、旅行会社、英文事務、基地従業員、銀行員、添乗員&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	２年生・１年生対象 合同オープンキャンパス&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/150130_oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	２年生、１年生むけ&lt;br /&gt;
+	2015年 アイカレ・外語の合同オープンキャンパス。&lt;/h2&gt;
+&lt;h2&gt;
+	2/21（土）：13:30～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;２年生、１年生向けの初めてのオープンキャンパスとして&lt;br /&gt;
+	開催します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;進路選びのお手伝いを専門学校ITカレッジ、沖縄ビジネス外語学院の&lt;br /&gt;
+	合同オープンキャンパスとしてさせてもらいます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;ぜひ、遊びにきてください。&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt;&quot;&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p&gt;
+	【語学系関連キーワード】 &amp;nbsp;客室乗務員、グランドスタッフ、ブライダル、ホテル、語学、通訳翻訳、旅行会社、英文事務、基地従業員、銀行員、添乗員&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2014年12月13日 オープンキャンパス -クリエイター体験-</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/185-oc-20141213.html"/>
+		<published>2014-12-09T15:00:00+09:00</published>
+		<updated>2014-12-09T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/185-oc-20141213.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	12月13日のオープンキャンパス ～クリエイター体験～&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/141210oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	～画像編集ソフトをつかってデザインの世界を体験しよう ～&lt;/h2&gt;
+&lt;h2&gt;
+	12/13（土）：14:00～16:00&amp;nbsp;（無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;b&gt;絵やイラストや写真がすき！ 創ることが好き！&lt;br /&gt;
+	そんなあなたへ。&lt;br /&gt;
+	プロのクリエイターたちが使用する画像編集ソフトをつかって&lt;br /&gt;
+	デザインの世界を体験しませんか？&lt;br /&gt;
+	&lt;br /&gt;
+	アイカレのオープンキャンパスで 自分の色をみつけよう～&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	12月13日のオープンキャンパス ～クリエイター体験～&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/141210oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	～画像編集ソフトをつかってデザインの世界を体験しよう ～&lt;/h2&gt;
+&lt;h2&gt;
+	12/13（土）：14:00～16:00&amp;nbsp;（無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;b&gt;絵やイラストや写真がすき！ 創ることが好き！&lt;br /&gt;
+	そんなあなたへ。&lt;br /&gt;
+	プロのクリエイターたちが使用する画像編集ソフトをつかって&lt;br /&gt;
+	デザインの世界を体験しませんか？&lt;br /&gt;
+	&lt;br /&gt;
+	アイカレのオープンキャンパスで 自分の色をみつけよう～&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;font-size: 16pt;&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2014年11月8日オープンキャンパス案内 ~アイカレで学べること~</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/216-oc-20141108.html"/>
+		<published>2014-10-20T15:00:00+09:00</published>
+		<updated>2014-10-20T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/216-oc-20141108.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	11月のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/1411080c.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2014年 秋のオープンキャンパス。&lt;/h2&gt;
+&lt;h2&gt;
+	11/08（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;11月の内容は「アイカレで学べること！」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	11月のオープンキャンパス 案内&lt;/h1&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/1411080c.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;
+	2014年 秋のオープンキャンパス。&lt;/h2&gt;
+&lt;h2&gt;
+	11/08（土）：14:00～16:00 （無料送迎します!!）&lt;/h2&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;遊びにおいでよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;オープンキャンパス!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: red; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;11月の内容は「アイカレで学べること！」&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;color: orange; font-size: 16pt;&quot;&gt;
+	&lt;strong&gt;キミの好きが&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16pt; line-height: 1.3em;&quot;&gt;きっとココにある?!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 style=&quot;size: 14pt;&quot;&gt;
+	&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	【IT系・ビジネス系関連キーワード】 インターネット、プログラマ、スマホ、Android、アプリ、サウンド、デザイン、映像、Web、パソコン、ゲーム、ホワイトハッカー&lt;/p&gt;
+&lt;p&gt;
+	もちろん、無料送迎いたします。前日までにお電話 (098-833-6715) 下さい。&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;open-etc/10-open-moushi.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+	<entry>
+		<title>2014年10月18日 オープンキャンパス案内~ 個別入学相談会 ~</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/open-etc/215-oc-20141018.html"/>
+		<published>2014-10-06T15:00:00+09:00</published>
+		<updated>2014-10-06T15:00:00+09:00</updated>
+		<id>http://www.it-college.ac.jp/open-etc/215-oc-20141018.html</id>
+		<author>
+			<name>おくとるい</name>
+			<email>okuto@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	2014 10月18日 オープンキャンパス&amp;nbsp;~ 個別入学相談会 ~&lt;/h1&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/141018oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;
+	&lt;b style=&quot;color: rgb(51, 51, 51); font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12px;&quot;&gt;10/18 （土）：10:00～16:00&lt;/b&gt;&lt;/h1&gt;
+&lt;p style=&quot;color:red; font-size:25pt&quot;&gt;
+	&lt;b&gt;一人ひとりの？にお応えします！&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	ひとりひとりのQuestionに個別にじっくり応える&lt;br /&gt;
+	あなただけのオープンキャンパスです。&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&lt;strong&gt;保護者も一緒に参加頂けます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&lt;strong&gt;相談時間は1時間程度&lt;/strong&gt;。ご都合のよい時間でご予約ください。&lt;br /&gt;
+	（申し込み状況により時間が前後する場合がございます。ご了承ください。）&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	無料送迎いたします。&lt;br /&gt;
+	前日までにお電話 (098-833-6715) 下さい 。&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&lt;a href=&quot;http://www.it-college.ac.jp/open-etc/10-open-moushi.html&quot; mce_href=&quot;index.php/open/ocquery.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;
+	2014 10月18日 オープンキャンパス&amp;nbsp;~ 個別入学相談会 ~&lt;/h1&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://www.it-college.ac.jp/images/stories/ocimage/141018oc.png&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;
+	&lt;b style=&quot;color: rgb(51, 51, 51); font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12px;&quot;&gt;10/18 （土）：10:00～16:00&lt;/b&gt;&lt;/h1&gt;
+&lt;p style=&quot;color:red; font-size:25pt&quot;&gt;
+	&lt;b&gt;一人ひとりの？にお応えします！&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	ひとりひとりのQuestionに個別にじっくり応える&lt;br /&gt;
+	あなただけのオープンキャンパスです。&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&lt;strong&gt;保護者も一緒に参加頂けます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&lt;strong&gt;相談時間は1時間程度&lt;/strong&gt;。ご都合のよい時間でご予約ください。&lt;br /&gt;
+	（申し込み状況により時間が前後する場合がございます。ご了承ください。）&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	無料送迎いたします。&lt;br /&gt;
+	前日までにお電話 (098-833-6715) 下さい 。&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;font-size:14pt&quot;&gt;
+	&lt;a href=&quot;http://www.it-college.ac.jp/open-etc/10-open-moushi.html&quot; mce_href=&quot;index.php/open/ocquery.html&quot;&gt;オープンキャンパスへの申し込みはこちら&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="オープンキャンパス" />
+	</entry>
+</feed>

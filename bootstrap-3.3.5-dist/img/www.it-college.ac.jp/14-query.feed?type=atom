@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ja-jp">
+	<title type="text">コンピュータとインターネットの専門学校 ITカレッジ沖縄 - IT College OKINAWA</title>
+	<subtitle type="text">国際資格をベースにしたグローバルな人材を育成する沖縄県にあるコンピュータの専門学校ITカレッジ沖縄</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp"/>
+	<id>http://www.it-college.ac.jp/14-query.feed</id>
+	<updated>2015-07-27T13:40:02+09:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.it-college.ac.jp/14-query.feed?type=atom"/>
+	<entry>
+		<title>資料請求</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/shiryou-etc.html"/>
+		<published>2012-08-16T11:07:51+09:00</published>
+		<updated>2012-08-16T11:07:51+09:00</updated>
+		<id>http://www.it-college.ac.jp/shiryou-etc.html</id>
+		<author>
+			<name>おにぎり</name>
+			<email>nakasone@std.it-college.ac.jp</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;{chronoforms}document-request{/chronoforms}
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;{chronoforms}document-request{/chronoforms}
+&lt;/div&gt;</content>
+		<category term="資料請求" />
+	</entry>
+	<entry>
+		<title>就職のとりくみ</title>
+		<link rel="alternate" type="text/html" href="http://www.it-college.ac.jp/14-query/12-query-torikomi.html"/>
+		<published>2012-08-16T01:19:27+09:00</published>
+		<updated>2012-08-16T01:19:27+09:00</updated>
+		<id>http://www.it-college.ac.jp/14-query/12-query-torikomi.html</id>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;就職のとりくみ&lt;/h1&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;就職のとりくみ&lt;/h1&gt;&lt;/div&gt;</content>
+		<category term="資料請求" />
+	</entry>
+</feed>
